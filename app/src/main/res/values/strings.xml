@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MultiBhashi</string>
+    <string name="see_the_script"><u>See the script</u></string>
+    <string name="hold_to_record">hold to record</string>
+</resources>

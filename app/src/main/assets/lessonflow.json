@@ -1,0 +1,46 @@
+{
+    "lesson_data": [
+        {
+            "type": "learn",
+            "conceptName": "How",
+            "pronunciation": "Hege",
+            "targetScript": "ಹೇಗೆ",
+            "audio_url": "https://s3.ap-south-1.amazonaws.com/multibhashi-data/audio/english2kannada/en2kanhow.aac"
+        },
+        {
+            "type": "question",
+            "conceptName": "How",
+            "pronunciation": "Hege",
+            "targetScript": "ಹೇಗೆ",
+            "audio_url": "https://s3.ap-south-1.amazonaws.com/multibhashi-data/audio/english2kannada/kanonly_How.mp3"
+        },
+        {
+            "type": "learn",
+            "conceptName": "What",
+            "pronunciation": "Enu",
+            "targetScript": "ಏನು",
+            "audio_url": "https://s3.ap-south-1.amazonaws.com/multibhashi-data/audio/english2kannada/en2kanwhat.aac"
+        },
+        {
+            "type": "question",
+            "conceptName": "What",
+            "pronunciation": "Enu",
+            "targetScript": "ಏನು",
+            "audio_url": "https://s3.ap-south-1.amazonaws.com/multibhashi-data/audio/english2kannada/kanonly_What.mp3"
+        },
+        {
+            "type": "learn",
+            "conceptName": "Where",
+            "pronunciation": "Elli",
+            "targetScript": "ಎಲ್ಲಿ",
+            "audio_url": "https://s3.ap-south-1.amazonaws.com/multibhashi-data/audio/english2kannada/en2kanwhere.aac"
+        },
+        {
+            "type": "question",
+            "conceptName": "Where",
+            "pronunciation": "Elli",
+            "targetScript": "ಎಲ್ಲಿ",
+            "audio_url": "https://s3.ap-south-1.amazonaws.com/multibhashi-data/audio/english2kannada/kanonly_Where.mp3"
+        }
+    ]
+}
