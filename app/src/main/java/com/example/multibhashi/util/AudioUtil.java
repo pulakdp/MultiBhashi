@@ -50,7 +50,8 @@ public class AudioUtil {
 
     public void playOrStop(final AudioPlayback playback) {
         if (currentMediaPlayer.isPlaying()) {
-            currentMediaPlayer.stop();
+            currentMediaPlayer.pause();
+            currentMediaPlayer.seekTo(0);
             playback.audioStoppedOrCompleted();
         } else {
             currentMediaPlayer.start();
