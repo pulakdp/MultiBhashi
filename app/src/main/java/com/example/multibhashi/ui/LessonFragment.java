@@ -152,6 +152,7 @@ public class LessonFragment extends Fragment implements LessonContract.View {
             learnLayout.setVisibility(View.VISIBLE);
             questionLayout.setVisibility(View.GONE);
         }else {
+            speechResult.setText("");
             learnLayout.setVisibility(View.GONE);
             questionLayout.setVisibility(View.VISIBLE);
         }
